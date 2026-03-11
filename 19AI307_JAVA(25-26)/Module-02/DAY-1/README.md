@@ -78,5 +78,3 @@ class prog {
 
 Thus, the program to Create a class Course with attributes code, title, credits is executed successfully.
 
-
-
